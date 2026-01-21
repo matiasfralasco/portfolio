@@ -18,9 +18,9 @@ El diseño sigue una estética **Cyberpunk Minimalista** con efectos de Glassmor
 
 El proyecto fue construido utilizando estándares modernos de desarrollo web:
 
-* ![HTML5]**Estructura Semántica**
-* ![CSS3]**Estilos & Animaciones** (Flexbox, Grid, Variables CSS)
-* ![JavaScript]**Lógica e Interactividad**
+* **HTML5** **Estructura Semántica**
+* **CSS3** **Estilos & Animaciones** (Flexbox, Grid, Variables CSS)
+* **JavaScript** **Lógica e Interactividad**
 
 ### 📚 Librerías Externas
 * [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) - Para animaciones de entrada.
@@ -29,10 +29,7 @@ El proyecto fue construido utilizando estándares modernos de desarrollo web:
 * [FontAwesome](https://fontawesome.com/) - Para los iconos vectoriales.
 
 ## 📸 Capturas de Pantalla
-
-*(Aquí puedes subir una captura de tu portfolio funcionando)*
 ![Preview del Portfolio](./img/proyecto.png)
-> *Nota: Reemplaza esta imagen con una captura real de tu proyecto.*
 
 ## 🚀 Instalación y Uso
 
@@ -72,7 +69,7 @@ Este proyecto está listo para ser desplegado gratuitamente en:
 
 ## 📞 Contacto
 
-**Tu Nombre** - Desarrollador Web & Técnico.
+**Matias Fralasco** - Desarrollador Web & Técnico.
 
 * [LinkedIn](https://linkedin.com/in/matiasfralasco)
 * [GitHub](https://github.com/matiasfralasco)
